@@ -14,3 +14,10 @@ Montilla.
  - [ Tema 5 ] ( Tema 5.md )
  - [ Tema 6 ] ( Tema 6.md )
 
+ - **editar código fuente.**
+ - **compilar código fuente a código objeto.**
+ - **ejecutar código ejecutable.**
+   
+ - ![]( https://localdab.org/wp-content/uploads/2022/11/Compiler-2.jpg )
+
+   
