@@ -28,4 +28,9 @@ Montilla.
  - Abrimos editor | - Código Fuente | - Ejecutamos archivo
  - Escribimos código | - Ejecutamos compilador |
  - Guardamos código
- - 
+
+
+   Tareas por realizar
+     - [x] ~Editar~
+     - [ ] Compilar
+     - [ ] Ejecutar
